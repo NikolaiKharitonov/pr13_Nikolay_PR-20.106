@@ -1,0 +1,5 @@
+﻿  pr13Class.cpp
+  StringLine.cpp
+E:\Visual2019practix\pr13Class\pr13Class\StringLine.cpp(342,7): warning C4101: temp: неиспользованная локальная переменная
+  Создание кода...
+  pr13Class.vcxproj -> E:\Visual2019practix\pr13Class\Debug\pr13Class.exe
